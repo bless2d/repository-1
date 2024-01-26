@@ -1,1 +1,1 @@
-простой секундомер на питоне с использованием tkinter
+simple programs on python
