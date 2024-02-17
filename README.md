@@ -1,1 +1,1 @@
-simple programs on python
+часы и секундомер на питоне с использованием библиотеки tkinter, datetime и др
